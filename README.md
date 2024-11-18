@@ -1,0 +1,2 @@
+# javatest
+sample java project
